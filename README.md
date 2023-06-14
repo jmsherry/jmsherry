@@ -1,7 +1,7 @@
 👋 Hi, I’m @jmsherry,
 
 - 👀 I’m interested in ...
-HTM, CSS, JavaScript, Python, C[++], Rust
+HTML, CSS, JavaScript, Python, C[++], Rust
 
 - 🌱 I’m currently the owner of a bootcamp called [{ The Jump }](https://www.thejump.tech)
 
