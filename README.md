@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
 HTML, CSS, JavaScript, Python, C[++], Rust
 
-- 🌱 I’m currently one of the owners of a bootcamp called [{ The Jump }](https://www.thejump.tech)
+- 🌱 I’m currently a Co-owner of a bootcamp called [{ The Jump }](https://www.thejump.tech)
 
 
 - 📫 How to reach me: [email](mailto:james.sherry@thejump.tech)
